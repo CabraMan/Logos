@@ -1,13 +1,4 @@
-#EXTM3U url="https://raw.githubusercontent.com/Ricky2604/Movistar1815/master/Movistar_1815.m3u"
-
-#EXTINF:-1, tvg-logo="https://s17.directupload.net/images/190910/2iwyrhid.jpg",  Lista exclusiva de 𝙇𝙄𝙑𝙀🅃🅅 
-http://goldiptv.es/1
-
-#EXTINF:-1, tvg-logo="https://s17.directupload.net/images/190910/2iwyrhid.jpg",  Telegram
-http://goldiptv.es/2
-
-#EXTINF:-1, tvg-logo="https://s17.directupload.net/images/190910/2iwyrhid.jpg",  t.me/LiveTVvavoo
-http://goldiptv.es/3
+#EXTM3U url="https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar_1815.m3u"
 
 #EXTINF:-1,HOLLYWOOD
 #EXTVLCOPT:http-user-agent=exoplayer_video
