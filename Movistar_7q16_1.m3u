@@ -1,14 +1,4 @@
-#EXTM3U url="https://raw.githubusercontent.com/Ricky2604/Movistar_7q16/master/Movistar_7q16_1.m3u"
-
-#EXTINF:-1, tvg-logo="https://s17.directupload.net/images/190910/2iwyrhid.jpg",  Lista exclusiva de 𝙇𝙄𝙑𝙀🅃🅅 
-http://goldiptv.es/1
-
-#EXTINF:-1, tvg-logo="https://s17.directupload.net/images/190910/2iwyrhid.jpg",  Telegram
-http://goldiptv.es/2
-
-#EXTINF:-1, tvg-logo="https://s17.directupload.net/images/190910/2iwyrhid.jpg",  t.me/LiveTVvavoo
-http://goldiptv.es/3
-
+#EXTM3U url="https://raw.githubusercontent.com/CabraMan/Logos/master/Movistar_7q16_1.m3u"
 #EXTINF:-1,MOVISTAR+ MARVEL 1 HD
 http://cms-sp.accesss.me:25461/7q1616O5662G9bP/525755156917965/26129
 #EXTINF:-1,MOVISTAR+ MARVEL 2 HD
